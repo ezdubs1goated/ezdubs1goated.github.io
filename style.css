@@ -1,4 +1,18 @@
 body{
   background-color:#42f5b6;
   color:#a73dd4;
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1{
+  width:100vw;
+  text-align:center;
+}
+
+p{
+  width:100vw;
+  text-align:center;
 }
