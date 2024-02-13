@@ -1,6 +1,6 @@
 body{
-  background-color:#42f5b6;
-  color:#a73dd4;
+  background-color:#c7ffeb;
+  color:#8825b3;
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
@@ -10,12 +10,12 @@ body{
 h1{
   width:100vw;
   text-align:center;
-  font-size:50px;
+  font-size:70px;
 }
 
 p{
   width:100vw;
-  font-size:20px;
+  font-size:50px;
   text-align:center;
 }
 
@@ -25,4 +25,7 @@ a{
   padding:30px;
   border-radius:20px;
   text-decoration:none;
+  width:100%;
+  text-align:center;
+  font-size:50px;
 }
