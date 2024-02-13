@@ -10,9 +10,11 @@ body{
 h1{
   width:100vw;
   text-align:center;
+  font-size:50px;
 }
 
 p{
   width:100vw;
+  font-size:20px;
   text-align:center;
 }
