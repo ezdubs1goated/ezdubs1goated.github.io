@@ -27,14 +27,14 @@ a{
   text-decoration:none;
   width:100%;
   text-align:center;
-  font-size:50px;
+  font-size:70px;
   display:table; 
   margin: 0 auto;
 }
 
 img{
   display:table;
-  height:50%;
+  height:10%;
   margin:0 auto;
   border:5px #8825b3 solid;
 }
